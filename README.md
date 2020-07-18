@@ -32,3 +32,4 @@ Now we are going to train the data set using the model we created.
 After training the set we test it by predicting the classes of the test set.
 
 And the result will be like this:
+![image](https://user-images.githubusercontent.com/55240071/87851943-4197f880-c91b-11ea-95c5-fe1a2981e900.png)
